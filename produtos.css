@@ -171,6 +171,7 @@ td{
     text-align: center;
     font-size: 2em;
     margin: 0 0 1em;
+    clear: left;
 }
 .principal p{
     margin: 0 0 1em;
@@ -183,4 +184,9 @@ td{
 }
 .imagembeneficios{
     width: 60%;
+}
+.utencilios{
+    width: 120px;
+    float: left;
+    margin: 0 20px 20px;
 }
